@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #FFFFFF;
+    /* color:white; */
+    /* letter-spacing: 1px; */
+}
+.navbar-container{
+    
+    background-color: #58904A;
+    position: sticky;
+    top: 0;
+    /* font-weight: bold; */
+    /* z-index:2; */
+
+
+}
