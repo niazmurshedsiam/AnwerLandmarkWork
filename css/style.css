@@ -15,8 +15,16 @@ body{
 
 }
 .Experience-area{
-    height: 500px;
-    background-image: url("Image/top-banner.png");
+    /* height: 500px; */
+    /* background-color: ; */
+    background-image: url("https://www.anwarlandmark.com/wp-content/uploads/2019/05/background.png?id=64");
     background-repeat: no-repeat;
     background-position: left;
+}
+.Experience-area1{
+    /* height: 500px; */
+    /* background-color: ; */
+    background-image: url("https://www.anwarlandmark.com/wp-content/uploads/2019/05/footermenubg.png?id=172");
+    background-repeat: no-repeat;
+    background-position: right;
 }
