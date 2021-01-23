@@ -7,10 +7,16 @@ body{
 .navbar-container{
     
     background-color: #58904A;
-    position: sticky;
+    position: static;
     top: 0;
     /* font-weight: bold; */
-    /* z-index:2; */
+    z-index:2;
 
 
+}
+.Experience-area{
+    height: 500px;
+    background-image: url("Image/top-banner.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
